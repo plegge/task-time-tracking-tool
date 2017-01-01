@@ -1,5 +1,5 @@
 {
-  "name": "todo-list",
+  "name": "task-time-tracking-tool",
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "./node_modules/.bin/electron ."
   },
-  "author": "",
+  "author": "Gabriel Plegge da Silva",
   "license": "ISC",
   "dependencies": {
     "electron": "^1.4.13"
