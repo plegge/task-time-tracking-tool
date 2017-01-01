@@ -1,0 +1,29 @@
+html {
+	-webkit-app-region: drag; 
+	-webkit-user-select: none;
+}
+
+body {
+	-webkit-app-region: drag; 
+	-webkit-user-select: none;
+	color: #fff;	
+	margin: 10px;
+}
+
+.timer {
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+}
+
+.timer-control {
+	float: right;
+}
+
+.task-description {
+	width: 100%;
+	display: inline-block;
+	height: 36px;
+	line-height: 36px;
+	font-size: 36px;
+}
